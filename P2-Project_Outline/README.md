@@ -15,6 +15,7 @@ I would lastly like to end this overview by saying that this app would be simila
 2) Search: Users will be able to search for different businesses or events
 3) Rate: Users will be able to give a rating on a business and events
 4) Comment: Users will be able to give comments on different businesses 
+5) Invite: Users will be able to invite other users to join the app.
 ### Technologies
 -Angular
 -Java
@@ -23,4 +24,4 @@ I would lastly like to end this overview by saying that this app would be simila
 ### What I'll Have to Learn
 I will have to learn more about incorporating APIs into my application because i would like to implement a map API. I would also like to have a photo uploading system inplace where a user can upload a photo of the place they visited.
 ### Project Tracker
-Here is the link for my Trello board. https://trello.com/invite/b/NopufRkF/3450db1323fa48f1695cddf68651913c/liftoff-board
+Here is the link for my Trello board. https://trello.com/invite/b/9IyLLO4b/13c85c2b572f825fcc1bb417d43d9c2b/web-app-project
