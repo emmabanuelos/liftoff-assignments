@@ -16,4 +16,4 @@ https://trello.com/b/9IyLLO4b/emmab-web-app-project
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/emmabanuelos/parent-portal
